@@ -1,0 +1,20 @@
+{
+	"games":
+	[
+		{	
+			"title":"Tetris",
+			"imageURL":"http://images.clipartpanda.com/question-mark-black-and-white-Icon-round-Question_mark.jpg",
+			"description":"Tetris with a modern take on the game with updated graphics, character-driven levels and campaign mode. In the future a multiplayer mode is planned to compete against friends and try top the high score board."
+		}, 
+		{
+			"title":"Infinite Runner",
+			"imageURL":"http://images.clipartpanda.com/question-mark-black-and-white-Icon-round-Question_mark.jpg",
+			"description":"Mobile focused one-touch infinite runner built in Unity. This project was to experiment with producing infinite terrain to move further into procedurally genereated levels, down the line."
+		},
+		{
+			"title":"Space Shooter",
+			"imageURL":"http://images.clipartpanda.com/question-mark-black-and-white-Icon-round-Question_mark.jpg",
+			"description":"An old school vertical shooter with progressively harder levels and a high score system. Currently there are no powerups in the game but there will be along with bonus multipliers and end of level boss fights."
+		}
+	]
+}
